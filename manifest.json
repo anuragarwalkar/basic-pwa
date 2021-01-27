@@ -16,6 +16,13 @@
           "purpose": "maskable any"
         }
       ],
+    "shortcuts": [
+        {
+            "name": "Activity feed",
+            "short_name": "feed",
+            "description": "hello"
+        }
+    ],
     "theme_color": "#000",
     "background_color": "#fff",
     "display": "fullscreen",
